@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""Exact same object.
+Author: ouko
+
+"""
 
 
 def is_same_class(obj, a_class):
