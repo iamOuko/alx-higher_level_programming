@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""My list
+
+Author: ouko
+"""
+
 
 class MyList(list):
     """A class MyList that inherits from list"""
