@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""Only sub class of.
+Author: ouko
+
+"""
 
 
 def inherits_from(obj, a_class):
